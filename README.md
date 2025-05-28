@@ -1,8 +1,12 @@
-<img src="https://github.com/user-attachments/assets/1e455ea6-3364-4b36-9238-9fd7c973371d" alt="회원등록 폼 유효성 검사기 데모" width="600" />
+
 
 # 📝 회원등록 폼 유효성 검사기 (User Registration Form Validator)
 
 이 프로젝트는 HTML, CSS, JavaScript만을 사용하여 사용자 회원가입 폼의 실시간 유효성 검사를 구현한 웹 애플리케이션입니다. 사용자 입력의 정확성을 보장하고 사용자 경험을 개선하는 데 중점을 두었습니다.
+
+
+<img src="https://github.com/user-attachments/assets/1e455ea6-3364-4b36-9238-9fd7c973371d" alt="회원등록 폼 유효성 검사기 데모" width="600" />
+
 
 ## 🚀 주요 기능
 * **실시간 유효성 검사:** 사용자가 폼 필드에 입력할 때마다 각 입력값에 대한 유효성 검사가 즉시 이루어집니다.
